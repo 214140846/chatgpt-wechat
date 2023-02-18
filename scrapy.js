@@ -20,12 +20,12 @@ app.use(bodyParser.urlencoded({
     extended: true
 }));
 
-const TOKEN="Gy1dXK82b4YVaXnX4A9qm4tY"
-const EncodingAESKey="4OBN9WkuY66RvwOcMVPt29f9KIXVnEk9NAn7BT7iViO"
-const T='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'//chatgptkey
-const CORPID='ww1587623f6c0cc539'
-const CORPSECRET='QEJ1yT41SUtCqfe7OZVG88UA5qvd7S3_bcnIw0IAo7I'
-const AGENID='1000014'
+const TOKEN="xxxxxxx"
+const EncodingAESKey="xxxxxxx"
+const T='xxxxxxx'//chatgptkey
+const CORPID='xxxxxxx'
+const CORPSECRET='xxxxxxx'
+const AGENID='xxxxxxx'
 
 
 // const return_data=(code,msg,data)=>{return {code:code, msg:msg,data:data}}
